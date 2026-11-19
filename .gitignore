@@ -1,0 +1,5 @@
+# 自動安全防護：排除敏感登入設定與暫存檔
+github_manager_config.json
+__pycache__/
+*.pyc
+.env
